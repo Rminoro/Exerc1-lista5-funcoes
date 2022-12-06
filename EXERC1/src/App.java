@@ -5,8 +5,8 @@ class Triangulo {
             for (int coluna = 1; coluna <= linha; coluna++) {
                 System.out.print(linha + " ");
             }
-            System.out.println();    
-            //teste
+            System.out.println();
+            // teste uwu
         }
     }
 }
